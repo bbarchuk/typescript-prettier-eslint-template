@@ -1,1 +1,1 @@
-console.log("Hello from template!");
+console.log("Hello from template!")
